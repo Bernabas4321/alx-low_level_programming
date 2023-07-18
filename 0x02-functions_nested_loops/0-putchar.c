@@ -3,11 +3,11 @@
 #include <time.h>
 /**
  * main - Entry point
- * Description: 'prints _putchar to stdout'
- * Return: 0 on success.
+ *
+ * Return - Always 0(success)
  */
 int main(void)
 {
-	printf("_putchar\n");
+	printf("_putchar");
 	return (0);
 }
