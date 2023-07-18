@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Entry point
- *
+ * main - main - prints the string "_putchar" from a character array.
+ * Description: ''
  * Return - Always 0 (success)
  */
 int main(void)
