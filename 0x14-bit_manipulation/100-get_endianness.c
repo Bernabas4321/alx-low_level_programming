@@ -5,7 +5,6 @@
  *
  * Return: 1 if little endian, 0 otherwise
  */
-int get_endianness(void);
 int get_endianness(void)
 {
 	unsigned int test = 1;
